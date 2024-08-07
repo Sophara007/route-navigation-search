@@ -1,0 +1,31 @@
+/* App.css */
+
+/* Center content and add padding */
+.app-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Navigation Bar Styles */
+.navigationBar {
+    background-color: #2d2d2d; /* Dark background */
+    color: #ffffff; /* White text */
+}
+
+.navigationBar a {
+    text-decoration: none;
+    padding: 10px;
+    color: #ffffff;
+}
+
+.navigationBar a:hover {
+    color: #a3e635; /* Light green on hover */
+}
+
+/* Additional global styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9; /* Light gray background */
+}
